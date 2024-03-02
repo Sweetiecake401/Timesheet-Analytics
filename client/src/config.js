@@ -40,9 +40,8 @@ const config = {
   mode: 'light',
   presetColor: 'default',
   themeDirection: 'ltr',
-  // baseUrl: 'https://timesheet-api.hopeagro.co.th/api/',
-  // baseUrl: 'http://localhost:6100/api/'
-  baseUrl: 'https://timesheetanalytics-api.undefined.co.th:4439/api/'
+  baseUrl: 'http://localhost:6100/api/'
+ 
 };
 
 export default config;
